@@ -28,6 +28,6 @@ Este projeto tem como objetivo diagnosticar a saúde financeira e o engajamento 
 * **Marketing:** Implementar automação de reengajamento com oferta agressiva no 25º dia após a primeira compra.
 * **Operações:** Congelar campanhas na Região Central (Texas e Illinois) para auditoria imediata de custos e descontos.
 * **Produtos:** Descontinuar ou renegociar a malha logística da linha Lexmark e das impressoras 3D.
-![Painel Interativo](assets/Captura de tela 2026-08-20 132743...png)
-
-
+![Painel Interativo](assets/dashboard1.png)
+![Painel Interativo](assets/rfm.png)
+![Painel Interativo](assets/cohort.png)
